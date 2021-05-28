@@ -2,7 +2,7 @@
 
 ## About
 
-This app will help users that are interested in quick and simple nutrition calculation and logging. This app will focus on deficient nutritional summery for those who are focusing on low-carb and low-sugar diet. it will assist the users with day to day food logging fatigue. 
+This app will help users who are interested in quick and simple nutrition calculation and logging. This app will focus on nutritional summaries for those who are focusing on low-carb and low-sugar diets. It will assist users with day-to-day food logging fatigue. 
 
 ## Wireframe
 
